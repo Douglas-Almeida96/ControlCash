@@ -1,2 +1,1 @@
-meu primeiro git 
-criado html e css do site
+criando projeto em asp.net core mvc 
