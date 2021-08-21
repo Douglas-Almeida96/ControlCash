@@ -1,0 +1,29 @@
+﻿@model ControlCash.Models.TipoConsumo
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h3>Tipos de Consumo - Tem certeza que deseja alterar esse registro?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayName("Descrição")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+<div class="form-actions no-color">
+    <input type="submit" value="Excluir" class="btn btn-danger btn-custom" />
+    @Html.ActionLink("Voltar", "Index", null, new { @class = "btn btn-primary btn-custom" })
+</div>
+    }
+</div>

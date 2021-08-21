@@ -1,0 +1,125 @@
+﻿@model IEnumerable<ControlCash.Models.Acoes_BDR_FII>
+@{
+    ViewBag.Title = "Carteira";
+}
+    <div class="form-group"></div>
+    <h2>Carteira de Ações, BDR e FII</h2>
+        <div class="form-group">
+            <!--@Html.ActionLink("Selecionar outra data", "Buscar", null, new { @class = "btn btn-success btn-custom" })-->
+        </div>
+        <div class="form-group"><a href="#" onclick="window.print()">Imprimir</a></div>
+        <div id="carteira">
+            <table class="table table-striped">
+                <tr>
+                    <th>
+                        @Html.DisplayName("Ativo")
+                    </th>
+                    <th>
+                        @Html.DisplayName("Intituição")
+                    </th>
+                    <th>
+                        @Html.DisplayName("Valor")
+                    </th>
+                    <th>
+                        @Html.DisplayName("Data")
+                    </th>
+
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Ativo)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Instituicao.nome)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Preco_Compra)
+                        </td>
+                        <td>
+                            @{
+                                String data = item.Data_Inicio;
+                                data = data.Substring(0, 10);
+                            }
+                            @data
+                        </td>
+                    </tr>
+                }
+
+            </table>
+
+
+            <div class="jumbotron">
+                <figure class="highcharts-figure">
+                    <div id="container"></div>
+                </figure>
+            </div>
+        </div>
+
+
+
+        <script>
+
+            $(document).ready(function () {
+                $.getJSON("/Relatorios/CarteiraData", function (data) {
+                    var Nomes = []
+                    var Somas = []
+                    for (var i = 0; i < data.length; i++) {
+                        Somas.push(data[i].Soma);
+                        Nomes.push(data[i].Nome);
+
+                    }
+                    Highcharts.chart('container', {
+                        chart: {
+                            plotBackgroundColor: null,
+                            plotBorderWidth: null,
+                            plotShadow: false,
+                            type: 'pie'
+                        },
+                        xAxis: {
+                            categories: Nomes,
+                        },
+                        legend: {
+                            enabled: true,
+                            labelFormatter: function () {
+                                var legendIndex = this.index;
+                                var legendName = this.series.chart.axes[0].categories[legendIndex];
+                                return legendName;
+                            }
+                        },
+                        title: {
+                            text: 'Carteira'
+                        },
+                        tooltip: {
+                            pointFormat: '<b>{point.percentage:.1f}%</b>'
+                        },
+                        accessibility: {
+                            point: {
+                                valueSuffix: '%'
+                            }
+                        },
+                        plotOptions: {
+                            pie: {
+                                allowPointSelect: true,
+                                cursor: 'pointer',
+                                dataLabels: {
+                                    enabled: false
+                                },
+                                showInLegend: true
+                            }
+                        },
+
+                        series: [{
+                            data: Somas
+                        }]
+                    });
+
+
+
+
+
+                });
+            });
+        </script>

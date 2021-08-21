@@ -1,0 +1,181 @@
+﻿@model ControlCash.Models.Questionario
+@using Microsoft.AspNet.Identity
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Perfil do usuário</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>Questionario</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.Perg1, "Qual seu conhecimento sobre investimentos?", htmlAttributes: new { @class = "col-md-offset-0 col-md-12" })
+            <div class="col-md-offset-0 col-md-12">
+                @Html.RadioButtonFor(model => model.Perg1, "1")
+                Nenhum
+                @Html.RadioButtonFor(model => model.Perg1, "1")
+                Razoavel
+                @Html.RadioButtonFor(model => model.Perg1, "2")
+                Bom
+                @Html.RadioButtonFor(model => model.Perg1, "3")
+                Excelente
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Perg1, "Preencha a frase que te defina melhor no memento de investir:", htmlAttributes: new { @class = "col-md-offset-0 col-md-12" })
+            <div class="col-md-offset-0 col-md-12">
+                @Html.RadioButtonFor(model => model.Perg2, "3")
+                Uso o conhecimento de alguém de confiança e invisto onde for aconselhado
+            </div>
+            <div class="col-md-offset-0 col-md-12">
+                @Html.RadioButtonFor(model => model.Perg2, "2")
+                Deixo um pouco de rentabilidade de lado, buscando segurança com pensamento a longo prazo
+            </div>
+            <div class="col-md-offset-0 col-md-12">
+                @Html.RadioButtonFor(model => model.Perg2, "1")
+                Invisto em algo que eu tenha um bom conhecimento
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Perg3, "O que prioriza na hora de investir?", htmlAttributes: new { @class = "col-md-offset-0 col-md-12" })
+            <div class="col-md-offset-0 col-md-12">
+                @Html.RadioButtonFor(model => model.Perg3, "2")
+                Diversificação e Rentabilidade
+            </div>
+            <div class="col-md-offset-0 col-md-12">
+                @Html.RadioButtonFor(model => model.Perg3, "1")
+                Tranquilidade e Segurança
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Perg4, "Se houvesse um impacto na economia, o que você faria?", htmlAttributes: new { @class = "col-md-offset-0 col-md-12" })
+            <div class="col-md-offset-0 col-md-12">
+                @Html.RadioButtonFor(model => model.Perg4, "1")
+                Venderia tudo
+            </div>
+            <div class="col-md-offset-0 col-md-12">
+                @Html.RadioButtonFor(model => model.Perg4, "2")
+                Entendo que parte do meu patrimônio está exposto a esse risco
+            </div>
+            <div class="col-md-offset-0 col-md-12">
+                @Html.RadioButtonFor(model => model.Perg4, "3")
+                Entendo que haverá oscilações como esta e que meu patrimônio não está completamente protegido
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Perg5, "Quanto tempo pretende deixar seu dinheiro investido?", htmlAttributes: new { @class = "col-md-offset-0 col-md-12" })
+            <div class="col-md-offset-0 col-md-12">
+                @Html.RadioButtonFor(model => model.Perg5, "3")
+                Até 1 ano
+            </div>
+            <div class="col-md-offset-0 col-md-12">
+                @Html.RadioButtonFor(model => model.Perg5, "3")
+                Entre 1 a 3 anos
+            </div>
+            <div class="col-md-offset-0 col-md-12">
+                @Html.RadioButtonFor(model => model.Perg5, "2")
+                Entre 3 a 5 anos
+            </div>
+            <div class="col-md-offset-0 col-md-12">
+                @Html.RadioButtonFor(model => model.Perg5, "1")
+                Acima de 5 anos
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("Onde já investiu?", htmlAttributes: new { @class = "col-md-offset-0 col-lg-12" })
+            <div class="col-md-offset-0 col-md-12">
+                @Html.CheckBoxFor(model => model.Perg6a)
+                Nunca investi
+            </div>
+            <div class="col-md-offset-0 col-md-12">
+                @Html.CheckBoxFor(model => model.Perg6b)
+                Poupança
+            </div>
+            <div class="col-md-offset-0 col-md-12">
+                @Html.CheckBoxFor(model => model.Perg6c)
+                Previdência Privada
+            </div>
+            <div class="col-md-offset-0 col-md-12">
+                @Html.CheckBoxFor(model => model.Perg6d)
+                Títulos de Renda Fixa
+            </div>
+            <div class="col-md-offset-0 col-md-12">
+                @Html.CheckBoxFor(model => model.Perg6e)
+                Fundos de Investimentos
+            </div>
+            <div class="col-md-offset-0 col-md-12">
+                @Html.CheckBoxFor(model => model.Perg6f)
+                Bolsa de Valores e Derivados
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Perg7, "Com qual frequência que você muda de estratégia?", htmlAttributes: new { @class = "col-md-offset-0 col-md-12" })
+            <div class="col-md-offset-0 col-md-12">
+                @Html.RadioButtonFor(model => model.Perg7, "1")
+                Mudo de estratégia regularmente conforme os acontecimentos
+            </div>
+            <div class="col-md-offset-0 col-md-12">
+                @Html.RadioButtonFor(model => model.Perg7, "3")
+                Mudo de estratégia raramente, procurando manter meus investimentos
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Perg8, "Qual valor aproximado que tem investido?", htmlAttributes: new { @class = "col-md-offset-0 col-md-12" })
+            <div class="col-md-offset-0 col-md-12">
+                @Html.RadioButtonFor(model => model.Perg8, "1")
+                De 0 a 20 mil
+            </div>
+            <div class="col-md-offset-0 col-md-12">
+                @Html.RadioButtonFor(model => model.Perg8, "1")
+                De 20 a 50 mil
+            </div>
+            <div class="col-md-offset-0 col-md-12">
+                @Html.RadioButtonFor(model => model.Perg8, "2")
+                De 50 a 100 mil
+            </div>
+            <div class="col-md-offset-0 col-md-12">
+                @Html.RadioButtonFor(model => model.Perg8, "2")
+                De 100 a 500 mil
+            </div>
+            <div class="col-md-offset-0 col-md-12">
+                @Html.RadioButtonFor(model => model.Perg8, "3")
+                De 500 mil a 1 milhão
+            </div>
+            <div class="col-md-offset-0 col-md-12">
+                @Html.RadioButtonFor(model => model.Perg8, "3")
+                Mais de 1 milhão
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.UserID, new { htmlAttributes = new { @class = "form-control", @Value = User.Identity.GetUserId(), @Type = "hidden" } })
+                @Html.ValidationMessageFor(model => model.UserID, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-0 col-md-12">
+                <input type="submit" value="Finalizar" class="btn btn-success btn-custom" />
+            </div>
+        </div>
+    </div>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

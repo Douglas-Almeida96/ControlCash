@@ -1,0 +1,50 @@
+﻿@model IEnumerable<ControlCash.Models.Questionario>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h1>Perfil do Investidor</h1>
+
+<p>
+    @if (ViewBag.perfil == "")
+    {
+        @Html.ActionLink("Formar Perfil do Investidor", "Create", null, new { @class = "btn btn-success btn-custom" });
+    }
+    else
+    {
+        foreach (var item in Model)
+        {
+            @Html.ActionLink("Alterar Perfil do Investidor", "Edit", new { id = item.QuestID }, new { @class = "btn btn-success btn-custom" });
+        }
+    }   
+    </p>
+<div class="row">
+    <div class="col-md-12">
+
+        @if (ViewBag.perfil == "Conservador")
+        {
+            <h3> Seu perfil é: Conservador </h3>
+            <p> O perfil Conservador tende a se arriscar o mínimo possível com a intensão de preservar seu dinheiro e priorizar o investimento em rendas fixas, tendo em vista que não há grandes riscos como as rendas variáveis.</p>
+            <p> Geralmente os investidores com perfís conservadores tendem a dividir seus investimentos em 70 % em rendas fixas e 30 % em rendas variáveis, visando o seu rendimento mais a longo prazo.</p>
+            <p> Investimentos que podem ser bom para o seu perfil:</p>
+            <p> Tesouro Direto </p>
+            <p>Renda Fixa Pré-Fixada;</p>
+            <p>Renda Fixa Pós-Fixada;</p>
+            <p>Poupança.</p>
+        }
+        else if (ViewBag.perfil == "Moderado")
+        {
+            <h3>Seu perfil é: Moderado</h3>
+            <p>O perfil Moderado tende a se arriscar mais, porém preza bastante também no investimento conservador procurando sempre separar com o mesmo peso os investimentos. Como 50% rendas variáveis e 50% investido em renda fixa.</p>
+            <p>O seu perfil tende a querer ter alguns investimentos a curto prazo, mas de maiores risco e também ter alguns investimentos com menos risco e longo prazo.</p>
+            <p>Investimentos que podem ser bom para o seu perfil:</p>
+            <p>Renda Fixa Pré-Fixada;</p>
+            <p>Renda Fixa Pós-Fixada.</p>
+        }
+        else if (ViewBag.perfil == "Arriscado")
+        {
+            <h3>Seu perfil é: Ariscado</h3>
+        }
+    </div>
+</div>

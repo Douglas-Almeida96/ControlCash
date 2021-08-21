@@ -1,0 +1,65 @@
+﻿@model ControlCash.Models.Gasto
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Gasto</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Cartao.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cartao.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.RendaExtra.UserID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.RendaExtra.UserID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TipoConsumo.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TipoConsumo.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Nparcelas)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nparcelas)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ValorTotal)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ValorTotal)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Date)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Date)
+        </dd>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

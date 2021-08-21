@@ -1,0 +1,61 @@
+﻿@model ControlCash.Models.Previdencia
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Previdencia</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayName("Instituição Financeira")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Instituicao.nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Fundo")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Fundo)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Valor Aplicado")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Valor_Aplicado)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Data de Aplicação")
+        </dt>
+
+        <dd>
+            @{
+                String data = Model.Data_Inicio;
+                data = data.Substring(8, 2) + "/" + data.Substring(5, 2) + "/" + data.Substring(0, 4);
+            }
+            @data
+        </dd>
+
+        
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+<div class="form-actions no-color">
+    <input type="submit" value="Excluir" class="btn btn-danger btn-custom" />
+    @Html.ActionLink("Voltar", "Index", null, new { @class = "btn btn-primary btn-custom" })
+</div>
+    }
+</div>

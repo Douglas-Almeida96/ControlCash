@@ -1,0 +1,827 @@
+C:\Users\user01\source\repos\ControlCash\bin\ControlCash.dll.config
+C:\Users\user01\source\repos\ControlCash\bin\ControlCash.dll
+C:\Users\user01\source\repos\ControlCash\bin\ControlCash.pdb
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\csc.exe
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\csc.exe.config
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\csc.rsp
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\csi.exe
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\csi.exe.config
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\csi.rsp
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\System.AppContext.dll
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\System.Console.dll
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\System.IO.Compression.dll
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\System.Net.Http.dll
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\System.ValueTuple.dll
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\vbc.exe
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\vbc.exe.config
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\vbc.rsp
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\VBCSCompiler.exe
+C:\Users\user01\source\repos\ControlCash\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user01\source\repos\ControlCash\bin\Antlr3.Runtime.dll
+C:\Users\user01\source\repos\ControlCash\bin\EntityFramework.dll
+C:\Users\user01\source\repos\ControlCash\bin\EntityFramework.SqlServer.dll
+C:\Users\user01\source\repos\ControlCash\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user01\source\repos\ControlCash\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user01\source\repos\ControlCash\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user01\source\repos\ControlCash\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user01\source\repos\ControlCash\bin\Microsoft.Owin.dll
+C:\Users\user01\source\repos\ControlCash\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user01\source\repos\ControlCash\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user01\source\repos\ControlCash\bin\Microsoft.Owin.Security.dll
+C:\Users\user01\source\repos\ControlCash\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user01\source\repos\ControlCash\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user01\source\repos\ControlCash\bin\Newtonsoft.Json.dll
+C:\Users\user01\source\repos\ControlCash\bin\Owin.dll
+C:\Users\user01\source\repos\ControlCash\bin\System.Web.Helpers.dll
+C:\Users\user01\source\repos\ControlCash\bin\System.Web.Mvc.dll
+C:\Users\user01\source\repos\ControlCash\bin\System.Web.Optimization.dll
+C:\Users\user01\source\repos\ControlCash\bin\System.Web.Razor.dll
+C:\Users\user01\source\repos\ControlCash\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user01\source\repos\ControlCash\bin\System.Web.WebPages.dll
+C:\Users\user01\source\repos\ControlCash\bin\System.Web.WebPages.Razor.dll
+C:\Users\user01\source\repos\ControlCash\bin\WebGrease.dll
+C:\Users\user01\source\repos\ControlCash\bin\EntityFramework.xml
+C:\Users\user01\source\repos\ControlCash\bin\EntityFramework.SqlServer.xml
+C:\Users\user01\source\repos\ControlCash\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user01\source\repos\ControlCash\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user01\source\repos\ControlCash\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user01\source\repos\ControlCash\bin\Microsoft.Owin.xml
+C:\Users\user01\source\repos\ControlCash\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user01\source\repos\ControlCash\bin\Microsoft.Owin.Security.xml
+C:\Users\user01\source\repos\ControlCash\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user01\source\repos\ControlCash\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user01\source\repos\ControlCash\bin\System.Web.Helpers.xml
+C:\Users\user01\source\repos\ControlCash\bin\System.Web.Mvc.xml
+C:\Users\user01\source\repos\ControlCash\bin\System.Web.Optimization.xml
+C:\Users\user01\source\repos\ControlCash\bin\System.Web.Razor.xml
+C:\Users\user01\source\repos\ControlCash\bin\System.Web.WebPages.xml
+C:\Users\user01\source\repos\ControlCash\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user01\source\repos\ControlCash\bin\System.Web.WebPages.Razor.xml
+C:\Users\user01\source\repos\ControlCash\bin\Newtonsoft.Json.xml
+C:\Users\user01\source\repos\ControlCash\bin\Antlr3.Runtime.pdb
+C:\Users\user01\source\repos\ControlCash\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user01\source\repos\ControlCash\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\user01\source\repos\ControlCash\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\user01\source\repos\ControlCash\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\user01\source\repos\ControlCash\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\user01\source\repos\ControlCash\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\user01\source\repos\ControlCash\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\user01\source\repos\ControlCash\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\user01\source\repos\ControlCash\obj\Debug\ControlCash.csproj.CopyComplete
+C:\Users\user01\source\repos\ControlCash\obj\Debug\ControlCash.dll
+C:\Users\user01\source\repos\ControlCash\obj\Debug\ControlCash.pdb
+C:\Users\user01\source\repos\ControlCash\obj\Debug\ControlCash.Migrations.InitialCreate.resources
+C:\Users\user01\source\repos\ControlCash\obj\Debug\ControlCash.csproj.GenerateResource.cache
+C:\Users\user01\source\repos\ControlCash\obj\Debug\ControlCash.Migrations.Primeiro.resources
+C:\Users\user01\source\repos\ControlCash\obj\Debug\ControlCash.Migrations.Segundo.resources
+C:\Users\user01\source\repos\ControlCash\obj\Debug\ControlCash.csprojAssemblyReference.cache
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\ControlCash.dll.config
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\ControlCash.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\ControlCash.pdb
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\csc.exe
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\csc.exe.config
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\csc.rsp
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\csi.exe
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\csi.exe.config
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\csi.rsp
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\System.AppContext.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\System.Console.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\System.IO.Compression.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\System.Net.Http.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\System.ValueTuple.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\vbc.exe
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\vbc.exe.config
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\vbc.rsp
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\Antlr3.Runtime.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\EntityFramework.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\EntityFramework.SqlServer.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\Microsoft.Owin.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\Microsoft.Owin.Security.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\Newtonsoft.Json.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\Owin.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\System.Web.Helpers.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\System.Web.Mvc.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\System.Web.Optimization.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\System.Web.Razor.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\System.Web.WebPages.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\WebGrease.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\EntityFramework.xml
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\EntityFramework.SqlServer.xml
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\Microsoft.Owin.xml
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\Microsoft.Owin.Security.xml
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\System.Web.Helpers.xml
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\System.Web.Mvc.xml
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\System.Web.Optimization.xml
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\System.Web.Razor.xml
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\System.Web.WebPages.xml
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\Newtonsoft.Json.xml
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\Antlr3.Runtime.pdb
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\obj\Debug\ControlCash.Migrations.InitialCreate.resources
+C:\Users\Vieir\Documents\TCC\ControlCash\obj\Debug\ControlCash.Migrations.Primeiro.resources
+C:\Users\Vieir\Documents\TCC\ControlCash\obj\Debug\ControlCash.Migrations.Segundo.resources
+C:\Users\Vieir\Documents\TCC\ControlCash\obj\Debug\ControlCash.csproj.GenerateResource.cache
+C:\Users\Vieir\Documents\TCC\ControlCash\obj\Debug\ControlCash.csproj.CoreCompileInputs.cache
+C:\Users\Vieir\Documents\TCC\ControlCash\obj\Debug\ControlCash.csproj.CopyComplete
+C:\Users\Vieir\Documents\TCC\ControlCash\obj\Debug\ControlCash.dll
+C:\Users\Vieir\Documents\TCC\ControlCash\obj\Debug\ControlCash.pdb
+C:\Users\Vieir\Documents\TCC\ControlCash\obj\Debug\ControlCash.Migrations.nome.resources
+C:\Users\Vieir\Documents\TCC\ControlCash\obj\Debug\ControlCash.Migrations.nome1.resources
+C:\Users\Vieir\Documents\TCC\ControlCash\obj\Debug\ControlCash.Migrations.nome2.resources
+C:\Users\Vieir\Documents\TCC\ControlCash\obj\Debug\ControlCash.Migrations.Sexta.resources
+C:\Users\Vieir\Documents\TCC\ControlCash\obj\Debug\ControlCash.Migrations.Setima.resources
+C:\src\ControlCash\bin\ControlCash.dll.config
+C:\src\ControlCash\bin\ControlCash.dll
+C:\src\ControlCash\bin\ControlCash.pdb
+C:\src\ControlCash\bin\roslyn\csc.exe
+C:\src\ControlCash\bin\roslyn\csc.exe.config
+C:\src\ControlCash\bin\roslyn\csc.rsp
+C:\src\ControlCash\bin\roslyn\csi.exe
+C:\src\ControlCash\bin\roslyn\csi.exe.config
+C:\src\ControlCash\bin\roslyn\csi.rsp
+C:\src\ControlCash\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\src\ControlCash\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\src\ControlCash\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\src\ControlCash\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\src\ControlCash\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\src\ControlCash\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\src\ControlCash\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\src\ControlCash\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\src\ControlCash\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\src\ControlCash\bin\roslyn\Microsoft.Managed.Core.targets
+C:\src\ControlCash\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\src\ControlCash\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\src\ControlCash\bin\roslyn\System.AppContext.dll
+C:\src\ControlCash\bin\roslyn\System.Collections.Immutable.dll
+C:\src\ControlCash\bin\roslyn\System.Console.dll
+C:\src\ControlCash\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\src\ControlCash\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\src\ControlCash\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\src\ControlCash\bin\roslyn\System.Globalization.Calendars.dll
+C:\src\ControlCash\bin\roslyn\System.IO.Compression.dll
+C:\src\ControlCash\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\src\ControlCash\bin\roslyn\System.IO.FileSystem.dll
+C:\src\ControlCash\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\src\ControlCash\bin\roslyn\System.Net.Http.dll
+C:\src\ControlCash\bin\roslyn\System.Net.Sockets.dll
+C:\src\ControlCash\bin\roslyn\System.Reflection.Metadata.dll
+C:\src\ControlCash\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\src\ControlCash\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\src\ControlCash\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\src\ControlCash\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\src\ControlCash\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\src\ControlCash\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\src\ControlCash\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\src\ControlCash\bin\roslyn\System.ValueTuple.dll
+C:\src\ControlCash\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\src\ControlCash\bin\roslyn\System.Xml.XmlDocument.dll
+C:\src\ControlCash\bin\roslyn\System.Xml.XPath.dll
+C:\src\ControlCash\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\src\ControlCash\bin\roslyn\vbc.exe
+C:\src\ControlCash\bin\roslyn\vbc.exe.config
+C:\src\ControlCash\bin\roslyn\vbc.rsp
+C:\src\ControlCash\bin\roslyn\VBCSCompiler.exe
+C:\src\ControlCash\bin\roslyn\VBCSCompiler.exe.config
+C:\src\ControlCash\bin\Antlr3.Runtime.dll
+C:\src\ControlCash\bin\EntityFramework.dll
+C:\src\ControlCash\bin\EntityFramework.SqlServer.dll
+C:\src\ControlCash\bin\Microsoft.AspNet.Identity.Core.dll
+C:\src\ControlCash\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\src\ControlCash\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\src\ControlCash\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\src\ControlCash\bin\Microsoft.Owin.dll
+C:\src\ControlCash\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\src\ControlCash\bin\Microsoft.Owin.Security.Cookies.dll
+C:\src\ControlCash\bin\Microsoft.Owin.Security.dll
+C:\src\ControlCash\bin\Microsoft.Owin.Security.OAuth.dll
+C:\src\ControlCash\bin\Microsoft.Web.Infrastructure.dll
+C:\src\ControlCash\bin\Newtonsoft.Json.dll
+C:\src\ControlCash\bin\Owin.dll
+C:\src\ControlCash\bin\System.Web.Helpers.dll
+C:\src\ControlCash\bin\System.Web.Mvc.dll
+C:\src\ControlCash\bin\System.Web.Optimization.dll
+C:\src\ControlCash\bin\System.Web.Razor.dll
+C:\src\ControlCash\bin\System.Web.WebPages.Deployment.dll
+C:\src\ControlCash\bin\System.Web.WebPages.dll
+C:\src\ControlCash\bin\System.Web.WebPages.Razor.dll
+C:\src\ControlCash\bin\WebGrease.dll
+C:\src\ControlCash\bin\EntityFramework.xml
+C:\src\ControlCash\bin\EntityFramework.SqlServer.xml
+C:\src\ControlCash\bin\Microsoft.AspNet.Identity.Core.xml
+C:\src\ControlCash\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\src\ControlCash\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\src\ControlCash\bin\Microsoft.Owin.xml
+C:\src\ControlCash\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\src\ControlCash\bin\Microsoft.Owin.Security.xml
+C:\src\ControlCash\bin\Microsoft.Owin.Security.Cookies.xml
+C:\src\ControlCash\bin\Microsoft.Owin.Security.OAuth.xml
+C:\src\ControlCash\bin\System.Web.Helpers.xml
+C:\src\ControlCash\bin\System.Web.Mvc.xml
+C:\src\ControlCash\bin\System.Web.Optimization.xml
+C:\src\ControlCash\bin\System.Web.Razor.xml
+C:\src\ControlCash\bin\System.Web.WebPages.xml
+C:\src\ControlCash\bin\System.Web.WebPages.Deployment.xml
+C:\src\ControlCash\bin\System.Web.WebPages.Razor.xml
+C:\src\ControlCash\bin\Newtonsoft.Json.xml
+C:\src\ControlCash\bin\Antlr3.Runtime.pdb
+C:\src\ControlCash\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\src\ControlCash\bin\pt-br\System.Web.Helpers.resources.dll
+C:\src\ControlCash\bin\pt-br\System.Web.Mvc.resources.dll
+C:\src\ControlCash\bin\pt-br\System.Web.Optimization.resources.dll
+C:\src\ControlCash\bin\pt-br\System.Web.Razor.resources.dll
+C:\src\ControlCash\bin\pt-br\System.Web.WebPages.resources.dll
+C:\src\ControlCash\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\src\ControlCash\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\src\ControlCash\obj\Debug\ControlCash.csprojAssemblyReference.cache
+C:\src\ControlCash\obj\Debug\ControlCash.Migrations.InitialCreate.resources
+C:\src\ControlCash\obj\Debug\ControlCash.Migrations.Primeiro.resources
+C:\src\ControlCash\obj\Debug\ControlCash.Migrations.Segundo.resources
+C:\src\ControlCash\obj\Debug\ControlCash.Migrations.nome.resources
+C:\src\ControlCash\obj\Debug\ControlCash.Migrations.nome1.resources
+C:\src\ControlCash\obj\Debug\ControlCash.Migrations.nome2.resources
+C:\src\ControlCash\obj\Debug\ControlCash.Migrations.Sexta.resources
+C:\src\ControlCash\obj\Debug\ControlCash.Migrations.Setima.resources
+C:\src\ControlCash\obj\Debug\ControlCash.csproj.GenerateResource.cache
+C:\src\ControlCash\obj\Debug\ControlCash.csproj.CopyComplete
+C:\src\ControlCash\obj\Debug\ControlCash.dll
+C:\src\ControlCash\obj\Debug\ControlCash.pdb
+C:\src\ControlCash\obj\Debug\ControlCash.Migrations.OitavaProfessora.resources
+C:\src\ControlCash\obj\Debug\ControlCash.Migrations.NonaProfessora.resources
+C:\src\ControlCash\obj\Debug\ControlCash.Migrations.DecimaProfessora.resources
+C:\Users\user01\Desktop\ControlCash\bin\ControlCash.dll.config
+C:\Users\user01\Desktop\ControlCash\bin\ControlCash.dll
+C:\Users\user01\Desktop\ControlCash\bin\ControlCash.pdb
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\csc.exe
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\csc.exe.config
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\csc.rsp
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\csi.exe
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\csi.exe.config
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\csi.rsp
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\System.AppContext.dll
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\System.Console.dll
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\System.IO.Compression.dll
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\System.Net.Http.dll
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\System.ValueTuple.dll
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\vbc.exe
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\vbc.exe.config
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\vbc.rsp
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\VBCSCompiler.exe
+C:\Users\user01\Desktop\ControlCash\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user01\Desktop\ControlCash\bin\Antlr3.Runtime.dll
+C:\Users\user01\Desktop\ControlCash\bin\EntityFramework.dll
+C:\Users\user01\Desktop\ControlCash\bin\EntityFramework.SqlServer.dll
+C:\Users\user01\Desktop\ControlCash\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user01\Desktop\ControlCash\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user01\Desktop\ControlCash\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user01\Desktop\ControlCash\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user01\Desktop\ControlCash\bin\Microsoft.Owin.dll
+C:\Users\user01\Desktop\ControlCash\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user01\Desktop\ControlCash\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user01\Desktop\ControlCash\bin\Microsoft.Owin.Security.dll
+C:\Users\user01\Desktop\ControlCash\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user01\Desktop\ControlCash\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user01\Desktop\ControlCash\bin\Newtonsoft.Json.dll
+C:\Users\user01\Desktop\ControlCash\bin\Owin.dll
+C:\Users\user01\Desktop\ControlCash\bin\System.Web.Helpers.dll
+C:\Users\user01\Desktop\ControlCash\bin\System.Web.Mvc.dll
+C:\Users\user01\Desktop\ControlCash\bin\System.Web.Optimization.dll
+C:\Users\user01\Desktop\ControlCash\bin\System.Web.Razor.dll
+C:\Users\user01\Desktop\ControlCash\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user01\Desktop\ControlCash\bin\System.Web.WebPages.dll
+C:\Users\user01\Desktop\ControlCash\bin\System.Web.WebPages.Razor.dll
+C:\Users\user01\Desktop\ControlCash\bin\WebGrease.dll
+C:\Users\user01\Desktop\ControlCash\bin\EntityFramework.xml
+C:\Users\user01\Desktop\ControlCash\bin\EntityFramework.SqlServer.xml
+C:\Users\user01\Desktop\ControlCash\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user01\Desktop\ControlCash\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user01\Desktop\ControlCash\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user01\Desktop\ControlCash\bin\Microsoft.Owin.xml
+C:\Users\user01\Desktop\ControlCash\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user01\Desktop\ControlCash\bin\Microsoft.Owin.Security.xml
+C:\Users\user01\Desktop\ControlCash\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user01\Desktop\ControlCash\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user01\Desktop\ControlCash\bin\System.Web.Helpers.xml
+C:\Users\user01\Desktop\ControlCash\bin\System.Web.Mvc.xml
+C:\Users\user01\Desktop\ControlCash\bin\System.Web.Optimization.xml
+C:\Users\user01\Desktop\ControlCash\bin\System.Web.Razor.xml
+C:\Users\user01\Desktop\ControlCash\bin\System.Web.WebPages.xml
+C:\Users\user01\Desktop\ControlCash\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user01\Desktop\ControlCash\bin\System.Web.WebPages.Razor.xml
+C:\Users\user01\Desktop\ControlCash\bin\Newtonsoft.Json.xml
+C:\Users\user01\Desktop\ControlCash\bin\Antlr3.Runtime.pdb
+C:\Users\user01\Desktop\ControlCash\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user01\Desktop\ControlCash\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\user01\Desktop\ControlCash\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\user01\Desktop\ControlCash\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\user01\Desktop\ControlCash\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\user01\Desktop\ControlCash\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\user01\Desktop\ControlCash\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\user01\Desktop\ControlCash\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\user01\Desktop\ControlCash\obj\Debug\ControlCash.csprojAssemblyReference.cache
+C:\Users\user01\Desktop\ControlCash\obj\Debug\ControlCash.Migrations.InitialCreate.resources
+C:\Users\user01\Desktop\ControlCash\obj\Debug\ControlCash.Migrations.Primeiro.resources
+C:\Users\user01\Desktop\ControlCash\obj\Debug\ControlCash.Migrations.Segundo.resources
+C:\Users\user01\Desktop\ControlCash\obj\Debug\ControlCash.Migrations.nome.resources
+C:\Users\user01\Desktop\ControlCash\obj\Debug\ControlCash.Migrations.nome1.resources
+C:\Users\user01\Desktop\ControlCash\obj\Debug\ControlCash.Migrations.nome2.resources
+C:\Users\user01\Desktop\ControlCash\obj\Debug\ControlCash.Migrations.Sexta.resources
+C:\Users\user01\Desktop\ControlCash\obj\Debug\ControlCash.Migrations.Setima.resources
+C:\Users\user01\Desktop\ControlCash\obj\Debug\ControlCash.Migrations.OitavaProfessora.resources
+C:\Users\user01\Desktop\ControlCash\obj\Debug\ControlCash.Migrations.NonaProfessora.resources
+C:\Users\user01\Desktop\ControlCash\obj\Debug\ControlCash.Migrations.DecimaProfessora.resources
+C:\Users\user01\Desktop\ControlCash\obj\Debug\ControlCash.csproj.GenerateResource.cache
+C:\Users\user01\Desktop\ControlCash\obj\Debug\ControlCash.csproj.CopyComplete
+C:\Users\user01\Desktop\ControlCash\obj\Debug\ControlCash.dll
+C:\Users\user01\Desktop\ControlCash\obj\Debug\ControlCash.pdb
+C:\Users\Vieir\Documents\TCC\ControlCash\obj\Debug\ControlCash.Migrations.OitavaProfessora.resources
+C:\Users\Vieir\Documents\TCC\ControlCash\obj\Debug\ControlCash.Migrations.NonaProfessora.resources
+C:\Users\Vieir\Documents\TCC\ControlCash\obj\Debug\ControlCash.Migrations.DecimaProfessora.resources
+C:\src\tcc\ControlCash\bin\ControlCash.dll.config
+C:\src\tcc\ControlCash\bin\ControlCash.dll
+C:\src\tcc\ControlCash\bin\ControlCash.pdb
+C:\src\tcc\ControlCash\bin\roslyn\csc.exe
+C:\src\tcc\ControlCash\bin\roslyn\csc.exe.config
+C:\src\tcc\ControlCash\bin\roslyn\csc.rsp
+C:\src\tcc\ControlCash\bin\roslyn\csi.exe
+C:\src\tcc\ControlCash\bin\roslyn\csi.exe.config
+C:\src\tcc\ControlCash\bin\roslyn\csi.rsp
+C:\src\tcc\ControlCash\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\src\tcc\ControlCash\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\src\tcc\ControlCash\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\src\tcc\ControlCash\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\src\tcc\ControlCash\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\src\tcc\ControlCash\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\src\tcc\ControlCash\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\src\tcc\ControlCash\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\src\tcc\ControlCash\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\src\tcc\ControlCash\bin\roslyn\Microsoft.Managed.Core.targets
+C:\src\tcc\ControlCash\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\src\tcc\ControlCash\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\src\tcc\ControlCash\bin\roslyn\System.AppContext.dll
+C:\src\tcc\ControlCash\bin\roslyn\System.Collections.Immutable.dll
+C:\src\tcc\ControlCash\bin\roslyn\System.Console.dll
+C:\src\tcc\ControlCash\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\src\tcc\ControlCash\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\src\tcc\ControlCash\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\src\tcc\ControlCash\bin\roslyn\System.Globalization.Calendars.dll
+C:\src\tcc\ControlCash\bin\roslyn\System.IO.Compression.dll
+C:\src\tcc\ControlCash\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\src\tcc\ControlCash\bin\roslyn\System.IO.FileSystem.dll
+C:\src\tcc\ControlCash\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\src\tcc\ControlCash\bin\roslyn\System.Net.Http.dll
+C:\src\tcc\ControlCash\bin\roslyn\System.Net.Sockets.dll
+C:\src\tcc\ControlCash\bin\roslyn\System.Reflection.Metadata.dll
+C:\src\tcc\ControlCash\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\src\tcc\ControlCash\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\src\tcc\ControlCash\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\src\tcc\ControlCash\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\src\tcc\ControlCash\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\src\tcc\ControlCash\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\src\tcc\ControlCash\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\src\tcc\ControlCash\bin\roslyn\System.ValueTuple.dll
+C:\src\tcc\ControlCash\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\src\tcc\ControlCash\bin\roslyn\System.Xml.XmlDocument.dll
+C:\src\tcc\ControlCash\bin\roslyn\System.Xml.XPath.dll
+C:\src\tcc\ControlCash\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\src\tcc\ControlCash\bin\roslyn\vbc.exe
+C:\src\tcc\ControlCash\bin\roslyn\vbc.exe.config
+C:\src\tcc\ControlCash\bin\roslyn\vbc.rsp
+C:\src\tcc\ControlCash\bin\roslyn\VBCSCompiler.exe
+C:\src\tcc\ControlCash\bin\roslyn\VBCSCompiler.exe.config
+C:\src\tcc\ControlCash\bin\Antlr3.Runtime.dll
+C:\src\tcc\ControlCash\bin\EntityFramework.dll
+C:\src\tcc\ControlCash\bin\EntityFramework.SqlServer.dll
+C:\src\tcc\ControlCash\bin\Microsoft.AspNet.Identity.Core.dll
+C:\src\tcc\ControlCash\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\src\tcc\ControlCash\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\src\tcc\ControlCash\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\src\tcc\ControlCash\bin\Microsoft.Owin.dll
+C:\src\tcc\ControlCash\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\src\tcc\ControlCash\bin\Microsoft.Owin.Security.Cookies.dll
+C:\src\tcc\ControlCash\bin\Microsoft.Owin.Security.dll
+C:\src\tcc\ControlCash\bin\Microsoft.Owin.Security.OAuth.dll
+C:\src\tcc\ControlCash\bin\Microsoft.Web.Infrastructure.dll
+C:\src\tcc\ControlCash\bin\Newtonsoft.Json.dll
+C:\src\tcc\ControlCash\bin\Owin.dll
+C:\src\tcc\ControlCash\bin\System.Web.Helpers.dll
+C:\src\tcc\ControlCash\bin\System.Web.Mvc.dll
+C:\src\tcc\ControlCash\bin\System.Web.Optimization.dll
+C:\src\tcc\ControlCash\bin\System.Web.Razor.dll
+C:\src\tcc\ControlCash\bin\System.Web.WebPages.Deployment.dll
+C:\src\tcc\ControlCash\bin\System.Web.WebPages.dll
+C:\src\tcc\ControlCash\bin\System.Web.WebPages.Razor.dll
+C:\src\tcc\ControlCash\bin\WebGrease.dll
+C:\src\tcc\ControlCash\bin\EntityFramework.xml
+C:\src\tcc\ControlCash\bin\EntityFramework.SqlServer.xml
+C:\src\tcc\ControlCash\bin\Microsoft.AspNet.Identity.Core.xml
+C:\src\tcc\ControlCash\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\src\tcc\ControlCash\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\src\tcc\ControlCash\bin\Microsoft.Owin.xml
+C:\src\tcc\ControlCash\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\src\tcc\ControlCash\bin\Microsoft.Owin.Security.xml
+C:\src\tcc\ControlCash\bin\Microsoft.Owin.Security.Cookies.xml
+C:\src\tcc\ControlCash\bin\Microsoft.Owin.Security.OAuth.xml
+C:\src\tcc\ControlCash\bin\System.Web.Helpers.xml
+C:\src\tcc\ControlCash\bin\System.Web.Mvc.xml
+C:\src\tcc\ControlCash\bin\System.Web.Optimization.xml
+C:\src\tcc\ControlCash\bin\System.Web.Razor.xml
+C:\src\tcc\ControlCash\bin\System.Web.WebPages.xml
+C:\src\tcc\ControlCash\bin\System.Web.WebPages.Deployment.xml
+C:\src\tcc\ControlCash\bin\System.Web.WebPages.Razor.xml
+C:\src\tcc\ControlCash\bin\Newtonsoft.Json.xml
+C:\src\tcc\ControlCash\bin\Antlr3.Runtime.pdb
+C:\src\tcc\ControlCash\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\src\tcc\ControlCash\bin\pt-br\System.Web.Helpers.resources.dll
+C:\src\tcc\ControlCash\bin\pt-br\System.Web.Mvc.resources.dll
+C:\src\tcc\ControlCash\bin\pt-br\System.Web.Optimization.resources.dll
+C:\src\tcc\ControlCash\bin\pt-br\System.Web.Razor.resources.dll
+C:\src\tcc\ControlCash\bin\pt-br\System.Web.WebPages.resources.dll
+C:\src\tcc\ControlCash\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\src\tcc\ControlCash\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\src\tcc\ControlCash\obj\Debug\ControlCash.csprojAssemblyReference.cache
+C:\src\tcc\ControlCash\obj\Debug\ControlCash.Migrations.InitialCreate.resources
+C:\src\tcc\ControlCash\obj\Debug\ControlCash.Migrations.Primeiro.resources
+C:\src\tcc\ControlCash\obj\Debug\ControlCash.Migrations.Segundo.resources
+C:\src\tcc\ControlCash\obj\Debug\ControlCash.Migrations.nome.resources
+C:\src\tcc\ControlCash\obj\Debug\ControlCash.Migrations.nome1.resources
+C:\src\tcc\ControlCash\obj\Debug\ControlCash.Migrations.nome2.resources
+C:\src\tcc\ControlCash\obj\Debug\ControlCash.Migrations.Sexta.resources
+C:\src\tcc\ControlCash\obj\Debug\ControlCash.Migrations.Setima.resources
+C:\src\tcc\ControlCash\obj\Debug\ControlCash.Migrations.OitavaProfessora.resources
+C:\src\tcc\ControlCash\obj\Debug\ControlCash.Migrations.NonaProfessora.resources
+C:\src\tcc\ControlCash\obj\Debug\ControlCash.Migrations.DecimaProfessora.resources
+C:\src\tcc\ControlCash\obj\Debug\ControlCash.csproj.GenerateResource.cache
+C:\src\tcc\ControlCash\obj\Debug\ControlCash.csproj.CopyComplete
+C:\src\tcc\ControlCash\obj\Debug\ControlCash.dll
+C:\src\tcc\ControlCash\obj\Debug\ControlCash.pdb
+C:\Users\Vieir\Documents\TCC\ControlCash\obj\Debug\ControlCash.csprojAssemblyReference.cache
+C:\src\TCC Final\ControlCash\bin\ControlCash.dll.config
+C:\src\TCC Final\ControlCash\bin\ControlCash.dll
+C:\src\TCC Final\ControlCash\bin\ControlCash.pdb
+C:\src\TCC Final\ControlCash\bin\roslyn\csc.exe
+C:\src\TCC Final\ControlCash\bin\roslyn\csc.exe.config
+C:\src\TCC Final\ControlCash\bin\roslyn\csc.rsp
+C:\src\TCC Final\ControlCash\bin\roslyn\csi.exe
+C:\src\TCC Final\ControlCash\bin\roslyn\csi.exe.config
+C:\src\TCC Final\ControlCash\bin\roslyn\csi.rsp
+C:\src\TCC Final\ControlCash\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\src\TCC Final\ControlCash\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\src\TCC Final\ControlCash\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\src\TCC Final\ControlCash\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\src\TCC Final\ControlCash\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\src\TCC Final\ControlCash\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\src\TCC Final\ControlCash\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\src\TCC Final\ControlCash\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\src\TCC Final\ControlCash\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\src\TCC Final\ControlCash\bin\roslyn\Microsoft.Managed.Core.targets
+C:\src\TCC Final\ControlCash\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\src\TCC Final\ControlCash\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\src\TCC Final\ControlCash\bin\roslyn\System.AppContext.dll
+C:\src\TCC Final\ControlCash\bin\roslyn\System.Collections.Immutable.dll
+C:\src\TCC Final\ControlCash\bin\roslyn\System.Console.dll
+C:\src\TCC Final\ControlCash\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\src\TCC Final\ControlCash\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\src\TCC Final\ControlCash\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\src\TCC Final\ControlCash\bin\roslyn\System.Globalization.Calendars.dll
+C:\src\TCC Final\ControlCash\bin\roslyn\System.IO.Compression.dll
+C:\src\TCC Final\ControlCash\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\src\TCC Final\ControlCash\bin\roslyn\System.IO.FileSystem.dll
+C:\src\TCC Final\ControlCash\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\src\TCC Final\ControlCash\bin\roslyn\System.Net.Http.dll
+C:\src\TCC Final\ControlCash\bin\roslyn\System.Net.Sockets.dll
+C:\src\TCC Final\ControlCash\bin\roslyn\System.Reflection.Metadata.dll
+C:\src\TCC Final\ControlCash\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\src\TCC Final\ControlCash\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\src\TCC Final\ControlCash\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\src\TCC Final\ControlCash\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\src\TCC Final\ControlCash\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\src\TCC Final\ControlCash\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\src\TCC Final\ControlCash\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\src\TCC Final\ControlCash\bin\roslyn\System.ValueTuple.dll
+C:\src\TCC Final\ControlCash\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\src\TCC Final\ControlCash\bin\roslyn\System.Xml.XmlDocument.dll
+C:\src\TCC Final\ControlCash\bin\roslyn\System.Xml.XPath.dll
+C:\src\TCC Final\ControlCash\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\src\TCC Final\ControlCash\bin\roslyn\vbc.exe
+C:\src\TCC Final\ControlCash\bin\roslyn\vbc.exe.config
+C:\src\TCC Final\ControlCash\bin\roslyn\vbc.rsp
+C:\src\TCC Final\ControlCash\bin\roslyn\VBCSCompiler.exe
+C:\src\TCC Final\ControlCash\bin\roslyn\VBCSCompiler.exe.config
+C:\src\TCC Final\ControlCash\bin\Antlr3.Runtime.dll
+C:\src\TCC Final\ControlCash\bin\EntityFramework.dll
+C:\src\TCC Final\ControlCash\bin\EntityFramework.SqlServer.dll
+C:\src\TCC Final\ControlCash\bin\Microsoft.AspNet.Identity.Core.dll
+C:\src\TCC Final\ControlCash\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\src\TCC Final\ControlCash\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\src\TCC Final\ControlCash\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\src\TCC Final\ControlCash\bin\Microsoft.Owin.dll
+C:\src\TCC Final\ControlCash\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\src\TCC Final\ControlCash\bin\Microsoft.Owin.Security.Cookies.dll
+C:\src\TCC Final\ControlCash\bin\Microsoft.Owin.Security.dll
+C:\src\TCC Final\ControlCash\bin\Microsoft.Owin.Security.OAuth.dll
+C:\src\TCC Final\ControlCash\bin\Microsoft.Web.Infrastructure.dll
+C:\src\TCC Final\ControlCash\bin\Newtonsoft.Json.dll
+C:\src\TCC Final\ControlCash\bin\Owin.dll
+C:\src\TCC Final\ControlCash\bin\System.Web.Helpers.dll
+C:\src\TCC Final\ControlCash\bin\System.Web.Mvc.dll
+C:\src\TCC Final\ControlCash\bin\System.Web.Optimization.dll
+C:\src\TCC Final\ControlCash\bin\System.Web.Razor.dll
+C:\src\TCC Final\ControlCash\bin\System.Web.WebPages.Deployment.dll
+C:\src\TCC Final\ControlCash\bin\System.Web.WebPages.dll
+C:\src\TCC Final\ControlCash\bin\System.Web.WebPages.Razor.dll
+C:\src\TCC Final\ControlCash\bin\WebGrease.dll
+C:\src\TCC Final\ControlCash\bin\EntityFramework.xml
+C:\src\TCC Final\ControlCash\bin\EntityFramework.SqlServer.xml
+C:\src\TCC Final\ControlCash\bin\Microsoft.AspNet.Identity.Core.xml
+C:\src\TCC Final\ControlCash\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\src\TCC Final\ControlCash\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\src\TCC Final\ControlCash\bin\Microsoft.Owin.xml
+C:\src\TCC Final\ControlCash\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\src\TCC Final\ControlCash\bin\Microsoft.Owin.Security.xml
+C:\src\TCC Final\ControlCash\bin\Microsoft.Owin.Security.Cookies.xml
+C:\src\TCC Final\ControlCash\bin\Microsoft.Owin.Security.OAuth.xml
+C:\src\TCC Final\ControlCash\bin\System.Web.Helpers.xml
+C:\src\TCC Final\ControlCash\bin\System.Web.Mvc.xml
+C:\src\TCC Final\ControlCash\bin\System.Web.Optimization.xml
+C:\src\TCC Final\ControlCash\bin\System.Web.Razor.xml
+C:\src\TCC Final\ControlCash\bin\System.Web.WebPages.xml
+C:\src\TCC Final\ControlCash\bin\System.Web.WebPages.Deployment.xml
+C:\src\TCC Final\ControlCash\bin\System.Web.WebPages.Razor.xml
+C:\src\TCC Final\ControlCash\bin\Newtonsoft.Json.xml
+C:\src\TCC Final\ControlCash\bin\Antlr3.Runtime.pdb
+C:\src\TCC Final\ControlCash\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\src\TCC Final\ControlCash\bin\pt-br\System.Web.Helpers.resources.dll
+C:\src\TCC Final\ControlCash\bin\pt-br\System.Web.Mvc.resources.dll
+C:\src\TCC Final\ControlCash\bin\pt-br\System.Web.Optimization.resources.dll
+C:\src\TCC Final\ControlCash\bin\pt-br\System.Web.Razor.resources.dll
+C:\src\TCC Final\ControlCash\bin\pt-br\System.Web.WebPages.resources.dll
+C:\src\TCC Final\ControlCash\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\src\TCC Final\ControlCash\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\src\TCC Final\ControlCash\obj\Debug\ControlCash.csprojAssemblyReference.cache
+C:\src\TCC Final\ControlCash\obj\Debug\ControlCash.Migrations.InitialCreate.resources
+C:\src\TCC Final\ControlCash\obj\Debug\ControlCash.Migrations.Primeiro.resources
+C:\src\TCC Final\ControlCash\obj\Debug\ControlCash.Migrations.Segundo.resources
+C:\src\TCC Final\ControlCash\obj\Debug\ControlCash.Migrations.nome.resources
+C:\src\TCC Final\ControlCash\obj\Debug\ControlCash.Migrations.nome1.resources
+C:\src\TCC Final\ControlCash\obj\Debug\ControlCash.Migrations.nome2.resources
+C:\src\TCC Final\ControlCash\obj\Debug\ControlCash.Migrations.Sexta.resources
+C:\src\TCC Final\ControlCash\obj\Debug\ControlCash.Migrations.Setima.resources
+C:\src\TCC Final\ControlCash\obj\Debug\ControlCash.Migrations.OitavaProfessora.resources
+C:\src\TCC Final\ControlCash\obj\Debug\ControlCash.Migrations.NonaProfessora.resources
+C:\src\TCC Final\ControlCash\obj\Debug\ControlCash.Migrations.DecimaProfessora.resources
+C:\src\TCC Final\ControlCash\obj\Debug\ControlCash.csproj.GenerateResource.cache
+C:\src\TCC Final\ControlCash\obj\Debug\ControlCash.csproj.CopyComplete
+C:\src\TCC Final\ControlCash\obj\Debug\ControlCash.dll
+C:\src\TCC Final\ControlCash\obj\Debug\ControlCash.pdb
+C:\src\TCC Final\ControlCash\obj\Debug\ControlCash.Migrations.DecimaPrimeiraProfessora.resources
+C:\src\TCC Final\ControlCash\obj\Debug\ControlCash.Migrations.DecimaSegundaProfessora.resources
+C:\Users\user01\Desktop\ControlCash\obj\Debug\ControlCash.Migrations.DecimaPrimeiraProfessora.resources
+C:\Users\user01\Desktop\ControlCash\obj\Debug\ControlCash.Migrations.DecimaSegundaProfessora.resources
+C:\Users\Vieir\Documents\TCC\ControlCash\obj\Debug\ControlCash.Migrations.DecimaPrimeiraProfessora.resources
+C:\Users\Vieir\Documents\TCC\ControlCash\obj\Debug\ControlCash.Migrations.DecimaSegundaProfessora.resources
+C:\Users\user01\Desktop\ControlCash(1)\bin\ControlCash.dll.config
+C:\Users\user01\Desktop\ControlCash(1)\bin\ControlCash.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\ControlCash.pdb
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\csc.exe
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\csc.exe.config
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\csc.rsp
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\csi.exe
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\csi.exe.config
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\csi.rsp
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\System.AppContext.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\System.Console.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\System.IO.Compression.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\System.Net.Http.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\System.ValueTuple.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\vbc.exe
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\vbc.exe.config
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\vbc.rsp
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\VBCSCompiler.exe
+C:\Users\user01\Desktop\ControlCash(1)\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user01\Desktop\ControlCash(1)\bin\Antlr3.Runtime.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\EntityFramework.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\EntityFramework.SqlServer.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\Microsoft.Owin.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\Microsoft.Owin.Security.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\Newtonsoft.Json.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\Owin.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\System.Web.Helpers.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\System.Web.Mvc.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\System.Web.Optimization.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\System.Web.Razor.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\System.Web.WebPages.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\System.Web.WebPages.Razor.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\WebGrease.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\EntityFramework.xml
+C:\Users\user01\Desktop\ControlCash(1)\bin\EntityFramework.SqlServer.xml
+C:\Users\user01\Desktop\ControlCash(1)\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user01\Desktop\ControlCash(1)\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user01\Desktop\ControlCash(1)\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user01\Desktop\ControlCash(1)\bin\Microsoft.Owin.xml
+C:\Users\user01\Desktop\ControlCash(1)\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user01\Desktop\ControlCash(1)\bin\Microsoft.Owin.Security.xml
+C:\Users\user01\Desktop\ControlCash(1)\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user01\Desktop\ControlCash(1)\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user01\Desktop\ControlCash(1)\bin\System.Web.Helpers.xml
+C:\Users\user01\Desktop\ControlCash(1)\bin\System.Web.Mvc.xml
+C:\Users\user01\Desktop\ControlCash(1)\bin\System.Web.Optimization.xml
+C:\Users\user01\Desktop\ControlCash(1)\bin\System.Web.Razor.xml
+C:\Users\user01\Desktop\ControlCash(1)\bin\System.Web.WebPages.xml
+C:\Users\user01\Desktop\ControlCash(1)\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user01\Desktop\ControlCash(1)\bin\System.Web.WebPages.Razor.xml
+C:\Users\user01\Desktop\ControlCash(1)\bin\Newtonsoft.Json.xml
+C:\Users\user01\Desktop\ControlCash(1)\bin\Antlr3.Runtime.pdb
+C:\Users\user01\Desktop\ControlCash(1)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user01\Desktop\ControlCash(1)\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\user01\Desktop\ControlCash(1)\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\user01\Desktop\ControlCash(1)\obj\Debug\ControlCash.csprojAssemblyReference.cache
+C:\Users\user01\Desktop\ControlCash(1)\obj\Debug\ControlCash.Migrations.InitialCreate.resources
+C:\Users\user01\Desktop\ControlCash(1)\obj\Debug\ControlCash.Migrations.Primeiro.resources
+C:\Users\user01\Desktop\ControlCash(1)\obj\Debug\ControlCash.Migrations.Segundo.resources
+C:\Users\user01\Desktop\ControlCash(1)\obj\Debug\ControlCash.Migrations.nome.resources
+C:\Users\user01\Desktop\ControlCash(1)\obj\Debug\ControlCash.Migrations.nome1.resources
+C:\Users\user01\Desktop\ControlCash(1)\obj\Debug\ControlCash.Migrations.nome2.resources
+C:\Users\user01\Desktop\ControlCash(1)\obj\Debug\ControlCash.Migrations.Sexta.resources
+C:\Users\user01\Desktop\ControlCash(1)\obj\Debug\ControlCash.Migrations.Setima.resources
+C:\Users\user01\Desktop\ControlCash(1)\obj\Debug\ControlCash.Migrations.OitavaProfessora.resources
+C:\Users\user01\Desktop\ControlCash(1)\obj\Debug\ControlCash.Migrations.NonaProfessora.resources
+C:\Users\user01\Desktop\ControlCash(1)\obj\Debug\ControlCash.Migrations.DecimaProfessora.resources
+C:\Users\user01\Desktop\ControlCash(1)\obj\Debug\ControlCash.Migrations.DecimaPrimeiraProfessora.resources
+C:\Users\user01\Desktop\ControlCash(1)\obj\Debug\ControlCash.Migrations.DecimaSegundaProfessora.resources
+C:\Users\user01\Desktop\ControlCash(1)\obj\Debug\ControlCash.csproj.GenerateResource.cache
+C:\Users\user01\Desktop\ControlCash(1)\obj\Debug\ControlCash.csproj.CopyComplete
+C:\Users\user01\Desktop\ControlCash(1)\obj\Debug\ControlCash.dll
+C:\Users\user01\Desktop\ControlCash(1)\obj\Debug\ControlCash.pdb

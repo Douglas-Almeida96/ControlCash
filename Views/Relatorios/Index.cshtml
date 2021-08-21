@@ -1,0 +1,125 @@
+﻿@model IEnumerable<ControlCash.Models.Gasto>
+
+@{
+    ViewBag.Title = "Index";
+}
+<h2>Relatório do Mês</h2>
+    <div class="form-group">
+        <!--@Html.ActionLink("Selecionar outra data", "Buscar", null, new { @class = "btn btn-success btn-custom" })-->
+    </div>
+<div class="form-group "><a href="#" onclick="window.print()">Imprimir</a></div>
+<div id="relatorio">
+<table class="table table-striped">
+    <tr>
+        <th>
+            @Html.DisplayName("Tipo de Consumo")
+        </th>
+        <th>
+            @Html.DisplayName("Número de Parcelas")
+        </th>
+        <th>
+            @Html.DisplayName("Valor Total")
+        </th>
+        <th>
+            @Html.DisplayName("Data")
+        </th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TipoConsumo.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nparcelas)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ValorTotal)
+            </td>
+            <td>
+                @{
+                    String data = item.Date.ToString();
+                    data = data.Substring(0, 10);
+                }
+                @data
+            </td>
+        </tr>
+    }
+
+</table>
+
+
+<div class="jumbotron">
+    <figure class="highcharts-figure">
+        <div id="container"></div>
+    </figure>
+</div>
+</div>
+<!--falta organizar os nome ele estão juntos no grafico,
+    alem de não inserio nome nos topicos a abaixo do grafico-->
+<script>
+
+    $(document).ready(function () {
+        $.getJSON("/Relatorios/GetData", function (data) {
+            var Nomes = []
+            var Somas = []
+            for (var i = 0; i < data.length; i++) {
+                Somas.push(data[i].Soma);
+                Nomes.push(data[i].Nome);
+
+            }
+            Highcharts.chart('container', {
+                chart: {
+                    plotBackgroundColor: null,
+                    plotBorderWidth: null,
+                    plotShadow: false,
+                    type: 'pie'
+                },
+                xAxis: {
+                    categories: Nomes,
+                },
+                legend: {
+                    enabled: true,
+                    labelFormatter: function () {
+                        var legendIndex = this.index;
+                        var legendName = this.series.chart.axes[0].categories[legendIndex];
+                        return legendName;
+                    }
+                },
+                title: {
+                    text: 'Gastos do mês atual'
+                },
+                tooltip: {
+                    pointFormat: '<b>{point.percentage:.1f}%</b>'
+                },
+                accessibility: {
+                    point: {
+                        valueSuffix: '%'
+                    }
+                },
+                plotOptions: {
+                    pie: {
+                        allowPointSelect: true,
+                        cursor: 'pointer',
+                        dataLabels: {
+                            enabled: false
+                        },
+                        showInLegend: true
+                    }
+                },
+
+                series: [{
+                    data: Somas
+                }]
+            });
+
+
+
+
+
+        });
+    });
+</script>
+

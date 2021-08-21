@@ -1,0 +1,73 @@
+﻿@model ControlCash.Models.Gasto
+
+@{
+    ViewBag.Title = "Delete";
+}
+<h3>Gasto - Deseja realmente excluir esse registro?</h3>
+<div>
+    <h4>Gasto</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayName("Gasto pago com cartão")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cartao.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Gasto pago com renda extra")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.RendaExtra.Descricao)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Tipo de Consumo")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TipoConsumo.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Número de Parcelas")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nparcelas)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Valor Total")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ValorTotal)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Data")
+        </dt>
+
+        <dd>
+            @{
+                String data = Model.Date.ToString();
+                data = data.Substring(0, 10);
+            }
+            @data
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+<div class="form-actions no-color">
+    <input type="submit" value="Excluir" class="btn btn-danger btn-custom" />
+    @Html.ActionLink("Voltar", "Index", null, new { @class = "btn btn-primary btn-custom" })
+</div>
+    }
+</div>

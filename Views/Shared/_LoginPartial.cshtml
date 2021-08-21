@@ -1,0 +1,73 @@
+﻿@using Microsoft.AspNet.Identity
+    <div class="navbar-collapse collapse">
+        @if (Request.IsAuthenticated)
+        {
+            using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
+            {
+                @Html.AntiForgeryToken()
+
+        <ul class="nav navbar-nav">
+            <li>@Html.ActionLink("Perfil de Investimento", "Index", "Questionarios")</li>
+            <li>
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                    Geral <span class="caret"></span>
+                </a>
+                <ul class="dropdown-menu">
+                    <li>@Html.ActionLink("Instituiçoes Financeiras", "Index", "Instituicaos")</li>
+                    <li>@Html.ActionLink("Tipos de Cartões", "Index", "TipoCartaos")</li>
+                    <li>@Html.ActionLink("Tipos de Consumos", "Index", "TipoConsumoes")</li>
+                    
+                </ul>
+            </li>
+            <li>
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                    Financeiro <span class="caret"></span>
+                </a>
+                <ul class="dropdown-menu">
+                    <li>@Html.ActionLink("Cartões", "Index", "Cartaos")</li>
+                    <li>@Html.ActionLink("Gastos", "Index", "Gastoes")</li>
+                    <li>@Html.ActionLink("Rendas Extras", "Index", "RendaExtras")</li>
+                    <li>@Html.ActionLink("Relatórios", "Index", "Relatorios")</li>
+                    <li>@Html.ActionLink("Extratos Mensais", "Buscar", "Relatorios")</li>
+                </ul>
+            </li>
+            <li>
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                    Investimento <span class="caret"></span>
+                </a>
+                <ul class="dropdown-menu">
+                    <li>@Html.ActionLink("Ações, BDR e FII", "Index", "Acoes_BDR_FII")</li>
+                    <li>@Html.ActionLink("Carteira das Ações, BDR e FII", "Carteira", "Relatorios")</li>
+                    <li>@Html.ActionLink("Criptomoedas", "Index", "Criptomoedas")</li>
+                    <li>@Html.ActionLink("Debêntures", "Index", "Debentures")</li>
+                    <li>@Html.ActionLink("Fundos", "Index", "Fundoes")</li>
+                    <li>@Html.ActionLink("Moedas", "Index", "Moedas")</li>
+                    <li>@Html.ActionLink("Poupanças", "Index", "Poupancas")</li>
+                    <li>@Html.ActionLink("Previdências", "Index", "Previdencias")</li>
+                    <li>@Html.ActionLink("Renda Pós Fixada", "Index", "Renda_Fixa_Pos")</li>
+                    <li>@Html.ActionLink("Renda Pré Fixada", "Index", "Renda_Fixa_Pre")</li>
+                    <li>@Html.ActionLink("Tesouro Direto", "Index", "Tesouro_Direto")</li>
+                </ul>
+            </li>
+        </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        @Html.ActionLink("Olá " + User.Identity.GetUserName() + "!", "Index", "Manage", routeValues: null, htmlAttributes: new { title = "Manage" })
+                    </li>
+                    <li><a href="javascript:document.getElementById('logoutForm').submit()">Fazer logoff</a></li>
+                </ul>
+            }
+        }
+        else
+        {
+            <ul class="nav navbar-nav">
+                <li>@Html.ActionLink("Início", "Index", "Home")</li>
+                <li>@Html.ActionLink("Sobre", "About", "Home")</li>
+                <li>@Html.ActionLink("Contato", "Contact", "Home")</li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+                <li>@Html.ActionLink("Registrar", "Register", "Account", routeValues: null, htmlAttributes: new { id = "registerLink" })</li>
+                <li>@Html.ActionLink("Logon", "Login", "Account", routeValues: null, htmlAttributes: new { id = "loginLink" })</li>
+            </ul>
+        }
+    </div>

@@ -1,0 +1,32 @@
+﻿@model IEnumerable<ControlCash.Models.TipoConsumo>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Tipos de Consumos</h2>
+
+@Html.ActionLink("Novo Registro", "Create", null, new { @class = "btn btn-success btn-custom" })
+<div class="form-group"></div>
+<table class="table table-striped">
+    <tr>
+        <th>
+            @Html.DisplayName("Descrição")
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.ActionLink("Editar", "Edit", new { id = item.Id }, new { @class = "btn btn-warning btn-custom" })
+                @Html.ActionLink("Deletar", "Delete", new { id = item.Id }, new { @class = "btn btn-danger btn-custom" })
+            </td>
+        </tr>
+    }
+
+</table>

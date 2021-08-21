@@ -1,0 +1,72 @@
+﻿@model IEnumerable<ControlCash.Models.Fundo>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Fundos</h2>
+
+<p>
+    @Html.ActionLink("Novo Registro", "Create", null, new { @class = "btn btn-success btn-custom" })
+</p>
+<table class="table table-striped">
+    <tr>
+        <th>
+            @Html.DisplayName("Instituição Financeira")
+        </th>
+        <th>
+            @Html.DisplayName("Fundo Escolhido")
+        </th>
+        <th>
+            @Html.DisplayName("Aplicado por")
+        </th>
+        <th>
+            @Html.DisplayName("Valor aplicado")
+        </th>
+        <th>
+            @Html.DisplayName("Quantidade")
+        </th>
+        <th>
+            @Html.DisplayName("Preço de Compra")
+        </th>
+        <th>
+            @Html.DisplayName("Data de Compra")
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Instituicao.nome)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Fundo_Escolhido)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Aplica_por)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Valor_Aplicado)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Quantidade)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Preco_Compra)
+        </td>
+        <td>
+            @{
+                String data = item.Data_Inicio;
+                data = data.Substring(8, 2) + "/" + data.Substring(5, 2) + "/" + data.Substring(0, 4);
+            }
+            @data
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id=item.FundoID }, new { @class = "btn btn-warning btn-custom" }) 
+            @Html.ActionLink("Excluir", "Delete", new { id=item.FundoID }, new { @class = "btn btn-danger btn-custom" })
+        </td>
+    </tr>
+}
+
+</table>

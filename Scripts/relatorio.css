@@ -1,0 +1,15 @@
+<style type="text/css">
+	@media print {
+	  body * {
+		visibility: hidden;
+	  }
+	  #relatorio, #relatorio * {
+		visibility: visible;
+	  }
+	  #relatorio {
+		position: fixed;
+		left: 0;
+		top: 0;
+	  }
+	}
+</style>

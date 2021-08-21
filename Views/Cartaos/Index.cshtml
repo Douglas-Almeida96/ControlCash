@@ -1,0 +1,55 @@
+﻿@model IEnumerable<ControlCash.Models.Cartao>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Cartões</h2>
+@Html.ActionLink("Novo Registro", "Create", null, new { @class = "btn btn-success btn-custom" })
+<div class="form-group"></div>
+<table class="table table-striped">
+    <tr>
+        <th>
+            @Html.DisplayName("Instituição Financeira")
+        </th>
+        <th>
+            @Html.DisplayName("Tipo do Cartão")
+        </th>
+        <th>
+            @Html.DisplayName("Descrição")
+        </th>
+        <th>
+            @Html.DisplayName("Saldo Inicial")
+        </th>
+        <th>
+            @Html.DisplayName("Limite")
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Instituicao.nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TipoCartao.Tipo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Saldo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.limite)
+            </td>
+            <td>
+                @Html.ActionLink("Editar", "Edit", new { id = item.Id }, new { @class = "btn btn-warning btn-custom" })
+                @Html.ActionLink("Deletar", "Delete", new { id = item.Id }, new { @class = "btn btn-danger btn-custom" })
+            </td>
+        </tr>
+    }
+
+</table>

@@ -1,0 +1,114 @@
+﻿@model ControlCash.Models.Gasto
+@using Microsoft.AspNet.Identity
+
+@{
+    ViewBag.Title = "Create";
+}
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>Gasto - Novo Registro</h4>
+        @Html.ActionLink("Voltar", "Index", null, new { @class = "btn btn-primary btn-custom" })
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group" id="CartaoIdDiv">
+            @Html.LabelFor(model => model.CartaoId, "Gasto pago com Cartão", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("CartaoId", null, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.CartaoId, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group" id="RendaExtraIdDiv">
+            @Html.LabelFor(model => model.RendaExtraId, "Gasto pago com Renda Extra", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("RendaExtraId", null, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.RendaExtraId, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Nparcelas, "Número de parcelas", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Nparcelas, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Nparcelas, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.ValorTotal, "Valor Total", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.ValidationMessageFor(model => model.ValorTotal, "formato correto 123,56")
+                @Html.EditorFor(model => model.ValorTotal, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.ValorTotal, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.TipoConsumoId, "Tipo de Consumo", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("TipoConsumoId", null, htmlAttributes: new { @class = "form-control", @type = "form-control" })
+                @Html.ValidationMessageFor(model => model.TipoConsumoId, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Date, "Data", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Date, new { htmlAttributes = new { @class = "form-control", @type = "date" } })
+                @Html.ValidationMessageFor(model => model.Date, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.UserID, new { htmlAttributes = new { @class = "form-control", @Value = User.Identity.GetUserId(), @Type = "hidden" } })
+                @Html.ValidationMessageFor(model => model.UserID, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Salvar" class="btn btn-success btn-custom" />
+            </div>
+        </div>
+    </div>
+}
+<link href="~/Content/themes/base/jquery-ui.min.css" rel="stylesheet" />
+<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/bundles/validations_pt-br")
+}
+
+<script src="https://code.jquery.com/jquery-3.5.0.js"></script>
+<script>
+    $("#CartaoId")
+        .change(function () {
+            var str = "";
+            $("#CartaoId option:selected").each(function () {
+                str += $(this).text();
+            });
+            if (str != "(Nenhum)") {
+                $("#RendaExtraIdDiv").hide();
+            } else {
+                $("#RendaExtraIdDiv").show();
+            }
+        });
+    $("#RendaExtraId")
+        .change(function () {
+            var str = "";
+            $("#RendaExtraId option:selected").each(function () {
+                str += $(this).text();
+            });
+            if (str != "(Nenhum)") {
+                $("#CartaoIdDiv").hide();
+            } else {
+                $("#CartaoIdDiv").show();
+            }
+        });
+</script>

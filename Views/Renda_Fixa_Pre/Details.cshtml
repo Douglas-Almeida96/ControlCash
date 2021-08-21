@@ -1,0 +1,82 @@
+﻿@model ControlCash.Models.Renda_Fixa_Pre
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Renda_Fixa_Pre</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Instituicao.nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Instituicao.nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Emissor)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Emissor)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Papel)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Papel)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Taxa_Juros_Ano)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Taxa_Juros_Ano)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Data_Inicio)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Data_Inicio)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Data_Venc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Data_Venc)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Valor_Aplicado)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Valor_Aplicado)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UserID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserID)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Renda_PreID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
